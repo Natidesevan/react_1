@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+body {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
